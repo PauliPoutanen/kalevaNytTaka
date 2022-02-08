@@ -1,0 +1,5 @@
+POST http://localhost:3001/api/tviits 
+
+Content-Type: application/json
+
+{ "tviit": "Tämä on REST pinta-automaatioviesti." }
